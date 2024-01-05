@@ -1,0 +1,143 @@
+<mxfile host="app.diagrams.net" modified="2023-12-27T12:01:27.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FsN2v8mpxPq4AZHVvyLr" version="22.1.12" type="device">
+  <diagram name="페이지-1" id="jRf4CBRbHKQlGwM679zi">
+    <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-72" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="720" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-1" target="dBoARqeGVBcKNzOb0Xb9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-1" value="actor" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="795" y="10" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-2" value="나" style="whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="780" y="120" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-6" value="events" style="whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-7" target="dBoARqeGVBcKNzOb0Xb9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-7" value="Todo 등록" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-8" target="dBoARqeGVBcKNzOb0Xb9-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="550" />
+              <mxPoint x="1350" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-8" target="dBoARqeGVBcKNzOb0Xb9-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-8" value="todo&lt;br&gt;datetodo&lt;br&gt;tododatecreat&lt;br&gt;&amp;nbsp;writername" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-10" target="dBoARqeGVBcKNzOb0Xb9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-10" value="Todo 등록" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-12" target="dBoARqeGVBcKNzOb0Xb9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-12" value="Todolists 확인" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-13" target="dBoARqeGVBcKNzOb0Xb9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-13" target="dBoARqeGVBcKNzOb0Xb9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-13" target="dBoARqeGVBcKNzOb0Xb9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-13" value="Todolists" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-16" target="dBoARqeGVBcKNzOb0Xb9-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-16" value="Todo 수정" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-23" value="Todo 삭제" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="790" as="sourcePoint" />
+            <mxPoint x="1130" y="895" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-26" value="Todo 조회" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-36" target="dBoARqeGVBcKNzOb0Xb9-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1550" y="420" />
+              <mxPoint x="1100" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-36" value="Todo 수정" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-58" target="dBoARqeGVBcKNzOb0Xb9-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-58" value="Todolists&amp;nbsp;조회 하기" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-59" target="dBoARqeGVBcKNzOb0Xb9-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-59" value="Todo&amp;nbsp;등록하기" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-60" target="dBoARqeGVBcKNzOb0Xb9-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-60" value="Todo&amp;nbsp;수정하기" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dBoARqeGVBcKNzOb0Xb9-62" target="dBoARqeGVBcKNzOb0Xb9-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-62" value="Todo&amp;nbsp;삭제하기" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-63" value="Todolists 조회" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="94" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-65" value="Todo 등록" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-67" value="Todo&amp;nbsp;수정" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-69" value="Todo&amp;nbsp;삭제" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dBoARqeGVBcKNzOb0Xb9-73" value="Mytodolist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
